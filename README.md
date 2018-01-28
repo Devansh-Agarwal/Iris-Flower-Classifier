@@ -1,3 +1,6 @@
 # Iris-Flower-Classifier
-Iris Flower Classifier using Decision Tree from scikit learn in python.
+Iris Flower Classifier.
 Model is trained on the iris dataset inbuilt in scikit learn.
+Classifiers used:
+1)Decision Tree from scikit learn
+2)KNeighbours Tree from scikit learn
